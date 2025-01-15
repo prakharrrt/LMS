@@ -7,9 +7,7 @@ This repository contains the backend implementation of a Library Management Syst
 2. [Backend Structure](#backend-structure)
 3. [Database Structure](#database-structure)
 4. [API Documentation](#api-documentation)
-5. [Hosting Instructions](#hosting-instructions)
-6. [Links](#links)
-7. [Documentation](#documentation)
+
 
 ## Scenario
 
@@ -129,16 +127,3 @@ This guide will walk you through the process of hosting the backend of the libra
     Your backend should now be hosted on PythonAnywhere. Access it through the provided PythonAnywhere subdomain (e.g., `yourusername.pythonanywhere.com`).
 
 
-## Links
-
-- Backend Repository: [Link to Backend Repo](https://github.com/kiranrokkam09/library)
-- Frontend Repository: [Link to Frontend Repo](https://github.com/kiranrokkam09/library_static)
-- Backend Deployment: [Link to Deployed Backend](https://kiran1432.pythonanywhere.com)
-- Frontend Deployment: [Link to Deployed Frontend](https://library-static-1owi.vercel.app/)
-
-## Documentation
-
-Detailed design and implementation choices are documented in the `/docs` directory.
-
-## NOTE:
-Only Admin can create members in the library. The default credentials of Admin are **Username: "admin"** and **Password: "admin"**. 
