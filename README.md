@@ -51,10 +51,3 @@ The database includes tables for User, Book. Below is a simplified representatio
 
 Detailed API documentation can be found in the `/docs` directory. It includes information on each endpoint, required input, expected output, and possible errors.
 
-
-
-    **7. Access Your App**
-
-    Your backend should now be hosted on PythonAnywhere. Access it through the provided PythonAnywhere subdomain (e.g., `yourusername.pythonanywhere.com`).
-
-
